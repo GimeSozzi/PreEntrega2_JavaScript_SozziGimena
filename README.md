@@ -31,9 +31,9 @@ El proyecto contiene los siguientes archivos en la raíz del repositorio:
    `cd PreEntrega2_JavaScript_SozziGimena`
 
 3. Abre el `index.html` en tu navegador:
-   `start index.html` (En Windows)
-   `open index.html` (En Mac)
-   `xdg-open index.html` (En Linux)
+   - `start index.html` (En Windows)
+   - `open index.html` (En Mac)
+   - `xdg-open index.html` (En Linux)
 
 ## Uso
 
